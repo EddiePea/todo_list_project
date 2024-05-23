@@ -1,0 +1,14 @@
+{
+  "name": "todos-js175",
+  "version": "1.0.0",
+  "description": "A todo list app to test my understanding of Express and Pug",
+  "main": "todos.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddie Pea",
+  "license": "ISC"
+}
